@@ -4,3 +4,6 @@ countries:
   - Germany
   - Australia
   - Africa
+
+message: "Hello from Config Server!"
+
