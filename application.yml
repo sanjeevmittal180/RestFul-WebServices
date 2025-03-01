@@ -5,5 +5,5 @@ countries:
   - Australia
   - Africa
 
-message: "Hello  from Config Server!"
+message: "Hello  Again from Config Server!"
 
